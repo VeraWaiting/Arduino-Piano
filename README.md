@@ -14,7 +14,7 @@ Sounds are produced by computer, using Minim library of Processing.
 
 Schematic:
 
-![vera_music instrument_schem](https://cloud.githubusercontent.com/assets/23609156/23993678/bc365864-09fe-11e7-8564-d418e4504073.png)
+![vera_music instrument_schem](https://cloud.githubusercontent.com/assets/23609156/24015428/add6ce4c-0a45-11e7-8e57-4d4416b204b4.png)
 
 ### Continuing 
 
