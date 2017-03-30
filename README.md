@@ -14,11 +14,11 @@ Six light sensors are used to control six most frequently used chords, i.e., C, 
 Six LEDs are used to show which chord is being played.
 Sounds are produced by computer, using Minim library of Processing.
 
-#### schematic:
+schematic:
 
 ![vera_music instrument_schem](https://cloud.githubusercontent.com/assets/23609156/24518906/4068e306-1538-11e7-8599-e70c9f90dcc5.png)
 
-#### pcb:
+pcb:
 
 ![vera_music instrument_pcb](https://cloud.githubusercontent.com/assets/23609156/24518935/5be56bf4-1538-11e7-90dc-cf4b51c21dc0.png)
 
